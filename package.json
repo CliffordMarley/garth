@@ -1,0 +1,28 @@
+{
+  "name": "garth",
+  "version": "1.0.0",
+  "description": "Video & Audio Conferencing For Couples",
+  "main": "server.js",
+  "scripts": {
+    "test": " dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffordMarley/garth.git"
+  },
+  "keywords": [
+    "Video",
+    "Audio",
+    "Conferencing",
+    "Documents",
+    "File",
+    "Share",
+    "Sharing"
+  ],
+  "author": "Clifford P. Mwale",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CliffordMarley/garth/issues"
+  },
+  "homepage": "https://github.com/CliffordMarley/garth#readme"
+}
